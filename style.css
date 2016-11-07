@@ -1,0 +1,100 @@
+body
+{
+	background-color: grey;
+}
+.main{
+	width: 150mm;
+	height: 297mm;
+	background-color: white;
+	margin: auto;
+	
+	padding: 0px 25px 0px 25px;
+	border: 1px solid black;
+	}
+.head {
+	border-bottom: 2px solid black;
+}
+h5{
+	margin:0;
+}
+	
+
+
+.cont {
+	margin-top: 20px;}
+
+p{
+	margin:0;
+}
+.head h3{
+	color: grey;
+	margin: 0;
+}
+.cont2 h3{
+	color: grey;
+	margin: 0;
+}
+.cont3 h3{
+	color: grey;
+	margin: 0;
+}
+.head h1{
+	margin-top: 20px;
+	margin-bottom:0px;
+}
+
+.border {
+	border-bottom:1px dotted black;
+	
+	width: 70%;
+	float: left;	
+}
+#col2{
+	width:50%;
+	float: left;
+	margin:0;
+    
+}
+#col1{
+	width:50%;
+	float: left;
+	margin:0;
+	
+}
+#img{
+	width:29%;
+	float: right;
+	margin:0;
+	border:1px solid black;
+	width:145px; 
+	height: 160px;
+}
+.cont2{
+	clear: both;
+	background-color: grey;
+}
+
+.cont-col1 {
+	float:left; 
+	width: 200px;
+
+}
+.cont-col2{
+	float:left; 
+}
+.cont3{
+	margin-top: 10px;
+	padding-top: 50px;
+}
+.spisok{
+	clear: both;
+	padding-top: 10px;
+}
+.cont4{
+	margin-top: 10px;
+	padding-top: 10px;
+}
+#sp2{
+	padding: 0;
+}
+.form{float: right;}
